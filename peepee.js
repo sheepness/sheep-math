@@ -38,7 +38,7 @@ var puzzles = [["2+6","8",0,0,"white"],["1+1","2",100,0,"white"],["15+51","99",2
 			
 			["<span style='color:red'>3+5</span>-1","8",0,300,"white"],["<span style='color:red'>3+</span>5-1","9",100,300,"white"],
 			["<span style='color:red'>3+5</span>","9",200,300,"grey"],
-			["9+<span style='color:grey'>6+6</span>","84",300,300,"white"],["<span style='color:grey'>9+6</span>+6","57",400,300,"white"],
+			["9+<span style='color:grey'>6+6</span>","90",300,300,"white"],["<span style='color:grey'>9+6</span>+6","57",400,300,"white"],
 
 			["2x6","12",-100,0,"white"],["11x9","99",-200,0,"white"],["2/5","0.4",-300,0,"white"],["8/2","4",-400,0,"white"],
 			["2x6","81",-100,-100,"grey"],["11x9","99",-200,-100,"grey"],["2/5","5.2",-300,-100,"grey"],["8/2","52.0",-400,-100,"grey"],
